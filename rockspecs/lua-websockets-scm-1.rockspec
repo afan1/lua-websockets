@@ -14,10 +14,7 @@ description = {
 
 dependencies = {
   "lua >= 5.1",
-  "luasocket",
-  "luabitop",
-  "lua-ev",
-  "copas"
+  "luasocket"
 }
 
 build = {
